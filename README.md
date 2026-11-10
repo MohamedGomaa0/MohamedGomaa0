@@ -27,3 +27,12 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/master/icons/react/react-original.svg" height="40" alt="react icon" />
   <!-- أضف بقية الأيقونات بنفس الطريقة -->
 </p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
