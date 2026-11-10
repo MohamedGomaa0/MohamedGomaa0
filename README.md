@@ -20,3 +20,10 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/mohamedgomaa53"><img src="https://img.shields.io/badge/My_CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
   <a href="https://mohameddgomaaportfolio.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-007ec6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-original.svg" height="40" alt="javascript icon" />
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/typescript/typescript-original.svg" height="40" alt="typescript icon" />
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/react/react-original.svg" height="40" alt="react icon" />
+  <!-- أضف بقية الأيقونات بنفس الطريقة -->
+</p>
