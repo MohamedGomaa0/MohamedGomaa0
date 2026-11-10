@@ -128,7 +128,72 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
+<details open>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <br>
+<p align="center">
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img alt="Mohamed's GitHub stats" width="49%" height="210px" src="https://gh-readme-profile.vercel.app/api?username=MohamedGomaaBesher&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+  </a>
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img alt="Mohamed's GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedGomaaBesher&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img title="Streak Stats" height="210px" alt="Mohamed's streak" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGomaaBesher&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+  </a>
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img alt="Top Languages" height="210px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGomaaBesher&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  </a>
+</p>
+</details>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedGomaaBesher&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&title=Followers,Stars,Commits,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
+name: Generate Snake
+
+on:
+  schedule:
+    # يتم تحديثها كل يوم تلقائياً
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: MohamedGomaaBesher
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedGomaaBesher/MohamedGomaaBesher/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
   <br>
