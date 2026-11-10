@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">👋 Hey there, I'm [اسمك هنا]</h1>
+
+<p align="center">
+  <a href="رابط_السيرة_الذاتية"><img src="https://img.shields.io/badge/My_CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
+  <a href="رابط_البورتفوليو"><img src="https://img.shields.io/badge/My_Portfolio-007ec6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
