@@ -14,62 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hey there, I'm [Mohamed Gomaa]</h1>
-
 <p align="center">
-  <a href="www.linkedin.com/in/mohamedgomaa53"><img src="https://img.shields.io/badge/My_CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
-  <a href="https://mohameddgomaaportfolio.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-007ec6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <img src="./.github/workflows/elephant_animation_full.gif" alt="Business Systems & Digital Solutions" width="100%"/>
 </p>
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-original.svg" height="40" alt="javascript icon" />
-  <img src="https://raw.githubusercontent.com/devicons/master/icons/typescript/typescript-original.svg" height="40" alt="typescript icon" />
-  <img src="https://raw.githubusercontent.com/devicons/master/icons/react/react-original.svg" height="40" alt="react icon" />
-  <!-- أضف بقية الأيقونات بنفس الطريقة -->
-</p>
-### 📊 GitHub Stats
-
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Mohamed Gomaa Besher</span></h1>
+<h3 align="center">🚀 Business Systems & Digital Solutions Specialist | BIS Graduate</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Mohamed%20Gomaa%20Besher;Business%20Systems%20%26%20Digital%20Solutions%20Specialist;SQL%20Server%20%26%20Power%20BI%20Expert;Odoo%20ERP%20%26%20HubSpot%20CRM;SME360%20Project%20Creator&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" /> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="./.github/workflows/elephant_animation_full.gif" alt="Most Followed User in Egypt" width="100%"/>
-</p>
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Ahmed Abd El-Aty Dabish</span></h1>
-<h3 align="center">🚀 Full-Stack .NET Developer</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Full-Stack%20.NET%20Developer;Backend%20%26%20Frontend%20Expert;Check%20out%20my%20popular%20repos;Follow%20to%20get%20more%20updates&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" /> 
-</p>
-<!-- <p align="center" dir="auto">
-   <p align="center">
-  <a href="https://gh-most-followed.pages.dev/egypt">
-    <img
-      src="https://img.shields.io/badge/🏆%20Ranked%20%231%20in%20Egypt-EAB308?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"
-      height="45"
-    />
-  </a>
-</p>
-    <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-dabish-14b758230/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=✅+Open+to+Work" alt="Open to Work" />  
-  
-    &nbsp;
-</p> 
--->
 <p align="center" dir="auto">
-  <a href="https://gh-most-followed.pages.dev/egypt">
+  <a href="https://www.linkedin.com/in/mohamedgomaa53" target="_blank">
     <img
       align="left"
-      src="https://img.shields.io/badge/🏆%20Ranked%20%231%20in%20Egypt-EAB308?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"
+      src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181717"
       height="40"
-      width="300"
+      width="200"
     />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-dabish-14b758230/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedgomaa53" target="_blank">
     <img
       align="right"
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=✅+Open+to+Work"
@@ -81,85 +44,56 @@ Here are some ideas to get you started:
 &nbsp
 &nbsp
 <p align="center" dir="auto">
-    <a href="https://drive.google.com/drive/u/0/folders/1FU8Ci82gkBD4UUnhkOsiGML3jwVjdfsZ" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/00c7830315141995ff3de60bb81b93241c606643362f8c69f64b0ee5b1798140/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d792043562d3030353032303f7374796c653d666c6174" style="height: 35px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/My CV-005020?style=flat"></a> &nbsp;
-    <a href="https://ahmeddabish-portfolio.runasp.net/" rel="nofollow"> 
+    <a href="https://mohameddgomaaportfolio.vercel.app" rel="nofollow"> 
       <img src="https://camo.githubusercontent.com/4766ba540c204b156adab2f0ca3ff9284a3adf14cc2a3d9c0427f4723ed89cd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7920506f7274666f6c696f2d3030353032303f7374796c653d666c6174" style="height: 35px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/My Portfolio-005020?style=flat"></a>
-<a href="https://drive.google.com/drive/folders/1TkcX_FHsh5m5gTiOix2oShh3_WN2w4Yu?usp=sharing" rel="nofollow">
-  <img
-    src="https://img.shields.io/badge/🏆_Certificates-005020?style=flat&logo=googledrive&logoColor=white"
-    alt="Certificates"
-    style="height:35px;"
-  >
-</a>
+    <a href="https://sme-platform-empowering-small.vercel.app" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/🚀_SME360_Live_Demo-005020?style=flat&logo=vercel&logoColor=white" style="height: 35px;" alt="SME360"></a>
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedDabish&label=Profile%20views&color=0e75b6&style=flat&base=45000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MohamedGomaaBesher&label=Profile%20views&color=0e75b6&style=flat&base=1000" alt="Profile views" />
 </p>
-  </p>
+ </p>
  
 ## 💫 About Me 
 
-- 🧑‍💻 **Full-Stack .NET Developer** | Graduate from **Faculty of Computers and Information, Kafr El-Sheikh University
-- ⚙️ Specialized in **ASP.NET Core**, **EF Core**, **SQL Server**, **Angular**, **RESTful APIs**, and **Clean Architecture**
-- 🤖 Experienced in **AI** (RAG ,LLM,AI Agent, ML, DL, Computer Vision) integration and **Automation** (Selenium)
-- 💼 **Team Leader** at Electronic Center for Recruitment Services – Armed Forces 
-- 🚀 Passionate about **problem-solving** and delivering **high-quality software**
+- 🎓 **Business Information Systems (BIS) Graduate (2026, GPA 3.4)** | Arab Academy for Science, Technology & Maritime Transport (**AASTMT**) - College of Management & Technology.
+- 💼 **Business Systems & Digital Solutions Specialist** at **ES TECH** (Experience across Business Systems, Finance & Admin, Operations & Supply Chain, Sales & Business Development, Marketing, and Customer Service).
+- 🛠️ Specialized in **Business & Systems Analysis**, **SQL Server**, **Power BI**, **Odoo ERP**, **HubSpot CRM**, and Web Technologies.
+- 🚀 Creator & Lead of **SME360** (AI-Powered Business Operating System graduation project).
+- 💡 Passionate about digital transformation, data-driven decision-making, and delivering scalable business solutions.
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
-## 🧠 Languages & Tools
+## 🧠 Skills & Tools
 
 <p align="center">
 
-  <!-- Programming Languages -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <!-- Analysis & Modeling -->
+  <img src="https://img.shields.io/badge/Business%20Analysis-00599C?style=for-the-badge&logo=codeforces&logoColor=white" title="Business Analysis"/>
+  <img src="https://img.shields.io/badge/Systems%20Analysis-2EA44F?style=for-the-badge&logo=git&logoColor=white" title="Systems Analysis & Design"/>
 
-  <!-- Frontend -->
+  <!-- Databases & BI -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server & SSMS"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" title="Power BI"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
+
+  <!-- ERP & CRM -->
+  <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" width="45" title="Odoo ERP"/>
+  <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" width="45" title="HubSpot CRM"/>
+
+  <!-- Web Development -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45" title="PHP"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
-
-  <!-- Backend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core / ASP.NET Core"/>
-  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="45" title="Entity Framework Core"/>
-
-  <!-- Databases -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" title="Firebase"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" title="Swagger"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" width="45" title="Visual Studio"/>
-
-  <!-- DevOps -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45" title="Azure"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
-
-  <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=selenium" width="45" title="Selenium"/>
-  
-  <!-- AI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
-
-  <!-- Desktop --><!-- Desktop -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="45" title="WPF (Windows Presentation Foundation)"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Project-0078D7?style=flat&logo=microsoft&logoColor=white" width="45" title="Microsoft Project"/>
 
 </p>
 
@@ -169,35 +103,25 @@ Here are some ideas to get you started:
   <table align="center">
     <tr>
        <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/ahmed-dabish-14b758230/" target="_blank">
+        <a href="https://www.linkedin.com/in/mohamedgomaa53" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
         </a>
       </td>
-        <td align="center" width="80">          
-        <a href="mailto:ahmeddabish99@gmail.com" target="_blank">
+       <td align="center" width="80">     
+        <a href="mailto:mohamedgomaabesher@gmail.com" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
         </a>
       </td>
       <td align="center" width="80"> 
-        <a href="https://wa.me/201001415548" target="_blank">
+        <a href="https://wa.me/201122523299" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
         </a>
       </td>
       <td align="center" width="80">
-        <a href="https://t.me/@AhmedDabish" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
+        <a href="https://mohameddgomaaportfolio.vercel.app" target="_blank">
+          <img src="https://img.icons8.com/?size=96&id=11347&format=png" width="48" height="48" alt="Portfolio"/>
         </a>
-      </td>    
-      <td align="center" width="80">
-        <a href="https://www.facebook.com/ahmed.dabish.96" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://messenger.com/t/ahmed.dabish.96" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/messenger.svg" width="48" height="48" alt="Messenger"/>
-        </a>
-      </td>    
+      </td>  
     </tr>
   </table>
 </p>
@@ -209,19 +133,19 @@ Here are some ideas to get you started:
   <summary><h2>📊 GitHub Stats</h2></summary>
   <br>
 <p align="center">
-  <a href="https://github.com/AhmedDabish">
-    <img alt="Ahmed's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=AhmedDabish&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img alt="Mohamed's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=MohamedGomaaBesher&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
   </a>
-  <a href="https://github.com/AhmedDabish">
-    <img alt="Ahmed's GitHub Stats" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AhmedDabish&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img alt="Mohamed's GitHub Stats" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MohamedGomaaBesher&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AhmedDabish">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  height="210px" alt="Ahmed's streak" width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=AhmedDabish&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img title="🔥 Streak Stats"  height="210px" alt="Mohamed's streak" width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MohamedGomaaBesher&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
   </a>
-  <a href="https://github.com/AhmedDabish">
-    <img alt="Ahmed's Top Languages"  height="210px" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedDabish&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  <a href="https://github.com/MohamedGomaaBesher">
+    <img alt="Mohamed's Top Languages"  height="210px" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohamedGomaaBesher&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
   </a>
 </p>
 </details>
@@ -229,14 +153,10 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=AhmedDabish&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&title=Followers,Stars,Commits,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=MohamedGomaaBesher&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&title=Followers,Stars,Commits,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/MohamedGomaaBesher/MohamedGomaaBesher/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
